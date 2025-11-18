@@ -1,5 +1,5 @@
-## Name: Bhuvaneshwaran A
-## Reg No: 212223060031
+## Name: Srivarshini P
+## Reg No: 212223060274
 ## Slot : 4X4-5
 
 # FAN-SPEED-CONTROLLER-SYSTEM-USING-TEMPERATURE-SENSOR
